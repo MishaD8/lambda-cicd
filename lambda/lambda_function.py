@@ -6,3 +6,4 @@ def lambda_handler(event, context):
             'body': json.dumps('Hello from CICD Lambda')
     }
     
+# hello from Mykhaylo local machine
